@@ -1,0 +1,1 @@
+// Sample view from data given in sample database 
